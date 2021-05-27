@@ -16,9 +16,9 @@ import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
 import org.junit.runners.Parameterized.Parameters;
 
+import com.epam.academy.cleanCode.LanguageServiceImpl;
 import com.epam.academy.common.Language;
 import com.epam.academy.common.LanguageService;
-import com.epam.academy.uglyCode.service.LanguageServiceImpl;
 
 @RunWith(Parameterized.class)
 public class LanguageServiceTest {
