@@ -1,5 +1,5 @@
 package com.epam.academy.common;
 
 public enum Language {
-	JS, JAVA, KOTLIN, HTML, PYTHON
+    JS, JAVA, KOTLIN, HTML, PYTHON
 }
