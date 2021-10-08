@@ -1,8 +1,7 @@
 package com.epam.academy.common;
 
 public interface LanguageService {
-
-	public boolean isProgrammingLangugage(Language language);
-	public boolean canUseForScripting(Language language); 
-	public String getQualifiedName(Language language); 
+	boolean isProgrammingLanguage(Language language);
+	boolean canUseForScripting(Language language);
+	String getQualifiedName(Language language);
 }
