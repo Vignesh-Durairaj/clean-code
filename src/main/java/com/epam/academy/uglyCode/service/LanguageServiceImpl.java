@@ -5,8 +5,8 @@ import com.epam.academy.common.LanguageService;
 
 import java.security.InvalidParameterException;
 
-import static com.epam.academy.common.Language.JS;
 import static com.epam.academy.common.Language.HTML;
+import static com.epam.academy.common.Language.JS;
 import static com.epam.academy.common.Language.PYTHON;
 
 

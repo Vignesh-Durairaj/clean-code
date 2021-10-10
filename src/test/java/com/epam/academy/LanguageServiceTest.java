@@ -11,7 +11,11 @@ import org.junit.runners.Parameterized.Parameters;
 import java.util.Arrays;
 import java.util.Collection;
 
-import static com.epam.academy.common.Language.*;
+import static com.epam.academy.common.Language.HTML;
+import static com.epam.academy.common.Language.JAVA;
+import static com.epam.academy.common.Language.JS;
+import static com.epam.academy.common.Language.KOTLIN;
+import static com.epam.academy.common.Language.PYTHON;
 import static org.junit.Assert.assertEquals;
 
 @RunWith(Parameterized.class)
